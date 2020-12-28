@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>272.jpg</filename>
+	<path>/home/duythao/python_projects/object_detection_demo_v2/data/images/test/272.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>146</ymin>
+			<xmax>797</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

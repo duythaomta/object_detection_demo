@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>29.jpg</filename>
+	<path>/home/duythao/python_projects/object_detection_demo_v2/data/images/train/29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>77</ymin>
+			<xmax>653</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>
